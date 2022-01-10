@@ -43,7 +43,7 @@ If any of the packets above are not found check if your distro installs them lik
 ##### Installation
 For all distros:
 ```bash
-git clone https://github.com/lwfinger/rtw88.git
+git clone https://github.com/Sparepartsjr/rtw88.git
 cd rtw88
 make
 sudo make install
